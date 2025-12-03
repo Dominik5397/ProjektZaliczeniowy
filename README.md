@@ -4,6 +4,8 @@
 
 Aplikacja webowa do nauki słówek w formie fiszek, napisana w TypeScript bez użycia frameworków.
 
+**Projekt został wykonany przez:** Dominik Burda
+
 **Autor:** Dominik Burda
 
 ## Wymagania
