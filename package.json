@@ -1,0 +1,18 @@
+{
+  "name": "fiszki-app",
+  "version": "1.0.0",
+  "description": "Aplikacja do nauki słówek w formie fiszek",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "keywords": ["fiszki", "flashcards", "typescript"],
+  "author": "Dominik Burda",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "typescript": "^5.3.3"
+  }
+}
+

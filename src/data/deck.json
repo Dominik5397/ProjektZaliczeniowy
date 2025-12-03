@@ -1,0 +1,35 @@
+{
+  "deckTitle": "Angielski: podstawowe czasowniki",
+  "cards": [
+    { "id": 1, "front": "to go", "back": "iść, jechać", "tag": "czasowniki" },
+    { "id": 2, "front": "to make", "back": "robić, tworzyć", "tag": "czasowniki" },
+    { "id": 3, "front": "to see", "back": "widzieć", "tag": "czasowniki" },
+    { "id": 4, "front": "to know", "back": "wiedzieć, znać", "tag": "czasowniki" },
+    { "id": 5, "front": "to take", "back": "brać, zabierać", "tag": "czasowniki" },
+    { "id": 6, "front": "to come", "back": "przychodzić, przyjeżdżać", "tag": "czasowniki" },
+    { "id": 7, "front": "to think", "back": "myśleć", "tag": "czasowniki" },
+    { "id": 8, "front": "to look", "back": "patrzeć, wyglądać", "tag": "czasowniki" },
+    { "id": 9, "front": "to want", "back": "chcieć", "tag": "czasowniki" },
+    { "id": 10, "front": "to give", "back": "dawać", "tag": "czasowniki" },
+    { "id": 11, "front": "to use", "back": "używać", "tag": "czasowniki" },
+    { "id": 12, "front": "to find", "back": "znajdować", "tag": "czasowniki" },
+    { "id": 13, "front": "to tell", "back": "mówić, powiedzieć", "tag": "czasowniki" },
+    { "id": 14, "front": "to work", "back": "pracować", "tag": "czasowniki" },
+    { "id": 15, "front": "to call", "back": "dzwonić, nazywać", "tag": "czasowniki" },
+    { "id": 16, "front": "to try", "back": "próbować", "tag": "czasowniki" },
+    { "id": 17, "front": "to ask", "back": "pytać, prosić", "tag": "czasowniki" },
+    { "id": 18, "front": "to need", "back": "potrzebować", "tag": "czasowniki" },
+    { "id": 19, "front": "to feel", "back": "czuć", "tag": "czasowniki" },
+    { "id": 20, "front": "to become", "back": "stawać się", "tag": "czasowniki" },
+    { "id": 21, "front": "to leave", "back": "opuszczać, zostawiać", "tag": "czasowniki" },
+    { "id": 22, "front": "to put", "back": "kłaść, stawiać", "tag": "czasowniki" },
+    { "id": 23, "front": "to mean", "back": "znaczyć, mieć na myśli", "tag": "czasowniki" },
+    { "id": 24, "front": "to keep", "back": "trzymać, zachowywać", "tag": "czasowniki" },
+    { "id": 25, "front": "to let", "back": "pozwalać", "tag": "czasowniki" }
+  ],
+  "session": {
+    "shuffle": true,
+    "showTimer": true
+  }
+}
+
