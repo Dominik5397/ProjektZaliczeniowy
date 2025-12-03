@@ -6,8 +6,6 @@ Aplikacja webowa do nauki słówek w formie fiszek, napisana w TypeScript bez u�
 
 **Projekt został wykonany przez:** Dominik Burda
 
-**Autor:** Dominik Burda
-
 ## Wymagania
 
 - Node.js (wersja 14 lub nowsza)
